@@ -1,14 +1,14 @@
-# MalagaMobile Code of Conduct
+# Malaga Mobile Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
-This code of conduct applies to all MalagaMobile-sponsored spaces, including our meetups, parties, forums and other spaces that MalagaMobile hosts, both online and offline.
+This code of conduct applies to all Malaga Mobile-sponsored spaces, including our meetups, parties, forums and other spaces that Malaga Mobile hosts, both online and offline.
 
 Some of these spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 ## Need Help?
 
-Contact us at malagamobile@protonmail.com or reach out directly to any of the organisers immediately. There'll always be at least one of them at any MalagaMobile-sponsored space.
+Contact us at malagamobile@protonmail.com or reach out directly to any of the organisers immediately. There'll always be at least one of them at any Malaga Mobile-sponsored space.
 
 ## The Quick Version
 
